@@ -43,7 +43,7 @@ Welcome to **QuizGo** – an intelligent quiz generator and battle platform!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumitaiml/quizgo-app-skillcred.git
+   git clone https://github.com/sumitaiml/quizgo-app-skillcred_1.git
    cd quizgo-app-skillcred
    ```
 2. Install dependencies:
