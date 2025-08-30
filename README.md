@@ -86,10 +86,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🌐 Author
-
-- [Sumit AI ML](https://github.com/sumitaiml)
-
----
 
 Enjoy using **QuizGo**! 🚀
